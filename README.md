@@ -35,4 +35,4 @@ Luckily you already installed the package we need, We just need to turn it on!
 4. In the end you shoould have two CMDs open,
     1. One with React Server Running
     2.  One With the JSON server running
-5. At this point you are ready to run the application! Please let me know if you have any feed back 
+5. At this point you are ready to run the application in the browser! Please let me know if you have any feed back!
